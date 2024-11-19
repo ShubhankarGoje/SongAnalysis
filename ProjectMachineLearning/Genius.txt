@@ -1,0 +1,5 @@
+Client ID: Wp07aixjIRzrIQ_dsZRQoTmNrLRlCG2tlOm-9sPhJh1oWQl0D7lRHyHaE8osS4yk
+
+Client Secret: kbelEK09ElgicZj27_vn4hYm3sQWfMAYgARNBUdKbLoMkS0TuwnoaoxykLUsnUuDhXQN38fzy9z4Z5XWCOgTeA
+
+Access Token: ms7TJu1V4bc_0erNWR_hEMcIOkM3EI-SRqDxWUIuFTDPhPSWWe1bWtZYCKq1wTpt

@@ -1,0 +1,57 @@
+,artist,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Coldplay,Special,1,7GSwmKxanoWEdpurOCldDe,The Sign,spotify:track:7GSwmKxanoWEdpurOCldDe,0.242,0.705,0.93,0.0,0.156,-3.388,0.0932,78.971,0.759,64
+1,Coldplay,Special,2,6HMtHNpW6YPi1hrw9tgF8P,About Damn Time,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,0.0974,0.836,0.743,0.0,0.335,-6.305,0.0653,108.965,0.723,77
+2,Coldplay,Special,3,1iV2uSjP8BfHTXVLblBOxI,Grrrls,spotify:track:1iV2uSjP8BfHTXVLblBOxI,0.0313,0.889,0.449,0.0,0.0581,-7.63,0.293,137.941,0.911,62
+3,Coldplay,Special,4,2rmwqU7yzTvzkiaRV53DpT,2 Be Loved (Am I Ready),spotify:track:2rmwqU7yzTvzkiaRV53DpT,0.0922,0.721,0.769,0.0,0.0817,-4.111,0.105,155.932,0.915,78
+4,Coldplay,Special,5,3WjCwQWPM8ggvyEwUPFBZ5,I Love You Bitch,spotify:track:3WjCwQWPM8ggvyEwUPFBZ5,0.166,0.795,0.588,0.0,0.169,-4.266,0.0396,120.035,0.662,60
+5,Coldplay,Special,6,3m7IYU7ySuFMwdm7OCShQN,Special,spotify:track:3m7IYU7ySuFMwdm7OCShQN,0.0164,0.517,0.707,0.0,0.453,-5.474,0.0693,82.859,0.264,66
+6,Coldplay,Special,7,7Bzgs1crJViC1NEliHSp8O,Break Up Twice,spotify:track:7Bzgs1crJViC1NEliHSp8O,0.0195,0.766,0.542,0.0,0.11,-5.147,0.0284,91.481,0.733,59
+7,Coldplay,Special,8,5uhaFPXTIG06S9Hb2c5tsT,Everybody’s Gay,spotify:track:5uhaFPXTIG06S9Hb2c5tsT,0.00705,0.699,0.72,1.15e-05,0.147,-6.394,0.0565,123.999,0.848,56
+8,Coldplay,Special,9,0I6PjTwqXQlsJYwwBMP1sQ,Naked,spotify:track:0I6PjTwqXQlsJYwwBMP1sQ,0.275,0.382,0.51,0.0,0.648,-7.635,0.0539,78.145,0.408,54
+9,Coldplay,Special,10,7IoLdpqB5igE13t12SKV8g,Birthday Girl,spotify:track:7IoLdpqB5igE13t12SKV8g,0.0506,0.773,0.66,0.0,0.0416,-4.111,0.0576,115.02,0.548,57
+10,Coldplay,Special,11,52GgzMLY2W5VKqxO7nkQAN,If You Love Me,spotify:track:52GgzMLY2W5VKqxO7nkQAN,0.188,0.596,0.644,0.0,0.163,-6.796,0.0366,141.997,0.357,51
+11,Coldplay,Special,12,2GpCh34HpurCeyeHvSe8To,Coldplay,spotify:track:2GpCh34HpurCeyeHvSe8To,0.133,0.637,0.807,3.89e-06,0.249,-5.193,0.0411,156.954,0.774,51
+43,Coldplay,Cuz I Love You (Super Deluxe),6,1FeKkh024mTeLJwI3jiCSe,Crybaby,spotify:track:1FeKkh024mTeLJwI3jiCSe,0.0383,0.623,0.719,0.0,0.247,-3.331,0.0403,131.027,0.722,43
+50,Coldplay,Cuz I Love You (Super Deluxe),13,3HWzoMvoF3TQfYg4UPszDq,Truth Hurts,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.11,0.715,0.624,0.0,0.123,-3.046,0.114,158.087,0.412,72
+54,Coldplay,Cuz I Love You,1,6YdQgWSpsxhVeX6Xmv3IFJ,Cuz I Love You,spotify:track:6YdQgWSpsxhVeX6Xmv3IFJ,0.0156,0.566,0.66,0.0,0.234,-4.039,0.0479,162.159,0.52,59
+55,Coldplay,Cuz I Love You,2,5I7sGubUsKo4mVJpBoSVUr,Like a Girl,spotify:track:5I7sGubUsKo4mVJpBoSVUr,0.0167,0.694,0.807,0.0,0.547,-3.183,0.0888,144.031,0.797,60
+56,Coldplay,Cuz I Love You,3,0k664IuFwVP557Gnx7RhIl,Juice,spotify:track:0k664IuFwVP557Gnx7RhIl,0.00611,0.767,0.889,0.0,0.402,-2.988,0.0963,119.93,0.843,72
+57,Coldplay,Cuz I Love You,4,6h2wpo2pshM8QnAvRySEO0,Soulmate,spotify:track:6h2wpo2pshM8QnAvRySEO0,0.00466,0.693,0.849,0.00127,0.503,-4.517,0.0892,99.021,0.767,58
+58,Coldplay,Cuz I Love You,5,3kxsEF30mM0TZWfkOv4XsS,Jerome,spotify:track:3kxsEF30mM0TZWfkOv4XsS,0.0476,0.674,0.542,0.0,0.0682,-6.983,0.253,150.979,0.534,46
+60,Coldplay,Cuz I Love You,7,6nBQFAIVFmAx2oZ8p6lUg6,Tempo (feat. Missy Elliott),spotify:track:6nBQFAIVFmAx2oZ8p6lUg6,0.0573,0.833,0.722,1.14e-05,0.358,-5.563,0.136,107.019,0.588,61
+61,Coldplay,Cuz I Love You,8,7BZtzkbV48eu0sGKhHP7R9,Exactly How I Feel (feat. Gucci Mane),spotify:track:7BZtzkbV48eu0sGKhHP7R9,0.114,0.872,0.718,0.0,0.333,-3.238,0.229,112.981,0.833,52
+63,Coldplay,Cuz I Love You,10,1xJAmebcsIOntzmfYtXrfc,Heaven Help Me,spotify:track:1xJAmebcsIOntzmfYtXrfc,0.0164,0.67,0.725,0.0,0.353,-6.373,0.0972,117.194,0.161,44
+64,Coldplay,Cuz I Love You,11,3MtLXxxfzxke0Zfe7qwYW3,Lingerie,spotify:track:3MtLXxxfzxke0Zfe7qwYW3,0.215,0.681,0.488,0.000766,0.11,-5.314,0.152,132.077,0.628,39
+98,Coldplay,Cuz I Love You (Super Deluxe),9,0bt3YJTupDqdTKpnFFgs7f,Better in Color,spotify:track:0bt3YJTupDqdTKpnFFgs7f,0.0353,0.702,0.928,3.02e-06,0.192,-2.039,0.199,129.894,0.556,53
+101,Coldplay,Cuz I Love You (Super Deluxe),12,1du4tPkvJfCIuVL6WMtqSs,Boys,spotify:track:1du4tPkvJfCIuVL6WMtqSs,0.00319,0.892,0.588,0.000162,0.0498,-4.287,0.11,120.042,0.753,60
+103,Coldplay,Cuz I Love You (Super Deluxe),14,4WbO3H3wFGUdrngpMMs4sF,Water Me,spotify:track:4WbO3H3wFGUdrngpMMs4sF,0.0292,0.67,0.966,0.0,0.185,-1.994,0.177,113.046,0.77,55
+104,Coldplay,Cuz I Love You (Super Deluxe),15,6KgBpzTuTRPebChN0VTyzV,Good as Hell,spotify:track:6KgBpzTuTRPebChN0VTyzV,0.256,0.682,0.919,0.0,0.442,-3.18,0.0875,95.982,0.535,72
+105,Coldplay,Cuz I Love You (Super Deluxe),16,2rjjNUYONZqC7wSd1i6OFq,Good as Hell (feat. Ariana Grande),spotify:track:2rjjNUYONZqC7wSd1i6OFq,0.298,0.668,0.892,0.0,0.735,-3.001,0.0645,95.927,0.478,62
+106,Coldplay,Big GRRRL Small World,1,0uaeowtteE1XHrrC79oTfT,Ain't I,spotify:track:0uaeowtteE1XHrrC79oTfT,0.0818,0.632,0.708,1.69e-06,0.602,-5.791,0.299,86.101,0.401,32
+107,Coldplay,Big GRRRL Small World,2,48srVFTMbj0u4zn9i6Ilr3,Betcha,spotify:track:48srVFTMbj0u4zn9i6Ilr3,0.0143,0.729,0.619,0.0,0.23,-7.06,0.396,175.947,0.388,23
+108,Coldplay,Big GRRRL Small World,3,2CXIyu5hjXoXcrOKTc101F,Ride,spotify:track:2CXIyu5hjXoXcrOKTc101F,0.148,0.808,0.885,0.0,0.169,-4.062,0.227,112.033,0.56,27
+109,Coldplay,Big GRRRL Small World,4,3FFB2XvhOfxTI6bamvyU8C,Humanize,spotify:track:3FFB2XvhOfxTI6bamvyU8C,0.456,0.676,0.544,1.03e-05,0.289,-8.012,0.111,114.962,0.439,34
+110,Coldplay,Big GRRRL Small World,5,37tXBEjLxhUsl34yBRV63J,Bother Me,spotify:track:37tXBEjLxhUsl34yBRV63J,0.458,0.44,0.408,9e-06,0.195,-6.644,0.177,79.446,0.0494,19
+111,Coldplay,Big GRRRL Small World,6,1DvbgyOGI8g72eKkgZh79h,B.G.S.W.,spotify:track:1DvbgyOGI8g72eKkgZh79h,0.301,0.723,0.627,0.0,0.118,-8.856,0.358,139.941,0.317,19
+112,Coldplay,Big GRRRL Small World,7,2InsYVVlqME5FHbOAEddOJ,The Fade,spotify:track:2InsYVVlqME5FHbOAEddOJ,0.296,0.774,0.846,3.53e-06,0.442,-5.487,0.224,119.954,0.438,34
+113,Coldplay,Big GRRRL Small World,8,7cH137B7jEXi6JrvIhz3jH,1 Deep,spotify:track:7cH137B7jEXi6JrvIhz3jH,0.898,0.467,0.498,0.000314,0.112,-8.483,0.258,119.372,0.182,18
+114,Coldplay,Big GRRRL Small World,9,4DBWzgoBDLYruY6JKTj6lN,The Realest,spotify:track:4DBWzgoBDLYruY6JKTj6lN,0.379,0.488,0.618,0.000989,0.225,-5.884,0.0593,105.099,0.31,18
+115,Coldplay,Big GRRRL Small World,10,7wHRFO53gnDUJnun8BiAkq,En Love,spotify:track:7wHRFO53gnDUJnun8BiAkq,0.0235,0.657,0.697,0.0,0.147,-5.15,0.167,141.884,0.216,36
+116,Coldplay,Big GRRRL Small World,11,6Dzt5qOuxnYHHXbOlhVhZc,My Skin,spotify:track:6Dzt5qOuxnYHHXbOlhVhZc,0.15,0.384,0.457,0.0,0.359,-10.562,0.364,80.07,0.213,34
+117,Coldplay,Big GRRRL Small World,12,2oqRx0mzjtlSexe7vgGxr8,Jang a Lang,spotify:track:2oqRx0mzjtlSexe7vgGxr8,0.00365,0.854,0.752,0.0,0.121,-6.922,0.336,92.394,0.558,21
+118,Coldplay,Lizzobangers,1,0TUxk2H9jyST2rpaF0OoHr,Lizzie Borden,spotify:track:0TUxk2H9jyST2rpaF0OoHr,0.117,0.443,0.859,0.0,0.418,-4.827,0.371,179.59,0.785,36
+119,Coldplay,Lizzobangers,2,5kiLPzjGbAb5CmE1xXSRZn,W.E.R.K. Pt. II,spotify:track:5kiLPzjGbAb5CmE1xXSRZn,0.293,0.879,0.946,0.0,0.618,-4.544,0.461,133.929,0.8,36
+120,Coldplay,Lizzobangers,3,61TDxB4GcCQe8tFOVM15Py,Wat U Mean,spotify:track:61TDxB4GcCQe8tFOVM15Py,0.163,0.783,0.677,1.19e-06,0.146,-4.251,0.0602,96.037,0.683,21
+121,Coldplay,Lizzobangers,4,2HHaYdkENryMPvJuwvZ1ss,T-Baby,spotify:track:2HHaYdkENryMPvJuwvZ1ss,0.026,0.815,0.776,0.0,0.469,-5.164,0.303,139.959,0.77,34
+122,Coldplay,Lizzobangers,5,3OEehKLb1fptEU0zkyNrUe,Be Still,spotify:track:3OEehKLb1fptEU0zkyNrUe,0.0826,0.482,0.653,0.0,0.147,-2.846,0.321,85.764,0.512,21
+123,Coldplay,Lizzobangers,6,1zejwm57bNwRQDRvhsbJKq,Faded,spotify:track:1zejwm57bNwRQDRvhsbJKq,0.0673,0.53,0.817,0.0,0.267,-3.98,0.0674,76.057,0.243,20
+124,Coldplay,Lizzobangers,7,0VFa9q8YtSBO5KH5YZm1QE,Hot Dish,spotify:track:0VFa9q8YtSBO5KH5YZm1QE,0.044,0.443,0.751,0.0,0.151,-3.389,0.253,76.751,0.342,18
+125,Coldplay,Lizzobangers,8,3LTyuPKZiIGdhRtP2SHjqh,Luv It,spotify:track:3LTyuPKZiIGdhRtP2SHjqh,0.189,0.772,0.708,0.0,0.0934,-7.331,0.304,87.926,0.824,20
+126,Coldplay,Lizzobangers,9,1HgwseKCKrBgL7By8ZcU9M,Batches & Cookies,spotify:track:1HgwseKCKrBgL7By8ZcU9M,0.587,0.773,0.912,0.0,0.105,-4.98,0.268,90.902,0.699,35
+127,Coldplay,Lizzobangers,10,2DFn2uMD9vFZl8ac4XQgYH,Pants vs. Dress,spotify:track:2DFn2uMD9vFZl8ac4XQgYH,0.0723,0.816,0.789,0.0,0.251,-4.488,0.327,115.415,0.746,19
+128,Coldplay,Lizzobangers,11,1yHBuDtuSJn62qtU9c3Nql,Go,spotify:track:1yHBuDtuSJn62qtU9c3Nql,0.265,0.659,0.609,1.28e-05,0.136,-7.023,0.209,135.909,0.244,17
+129,Coldplay,Lizzobangers,12,6pbMfQqIbhbvMsGS3duo4v,Bloodlines,spotify:track:6pbMfQqIbhbvMsGS3duo4v,0.0253,0.555,0.805,1.14e-05,0.087,-6.677,0.0778,141.822,0.322,17
+130,Coldplay,Lizzobangers,13,3ZjDkgata3JIB0Jo0EzCgv,Bus Passes and Happy Meals,spotify:track:3ZjDkgata3JIB0Jo0EzCgv,0.0762,0.754,0.45,0.000199,0.183,-7.396,0.0872,90.004,0.0385,19
+131,Coldplay,Lizzobangers,14,1criDzaWgUFbgT69WoqjjX,Paris,spotify:track:1criDzaWgUFbgT69WoqjjX,0.288,0.778,0.795,1.15e-05,0.0856,-4.986,0.221,84.005,0.506,22
+141,Coldplay,Lizzobangers,10,0MGuM11PJVgmmhBy3Z1bNo,Pants Vs. Dress,spotify:track:0MGuM11PJVgmmhBy3Z1bNo,0.0723,0.817,0.789,0.0,0.251,-4.488,0.326,115.41,0.746,17
+144,Coldplay,Lizzobangers,13,52T7HvjIR2S3mbcQsjIjRW,Bus Passes And Happy Meals,spotify:track:52T7HvjIR2S3mbcQsjIjRW,0.0762,0.754,0.45,0.000196,0.183,-7.396,0.0874,90.0,0.0385,16

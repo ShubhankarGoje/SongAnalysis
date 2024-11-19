@@ -1,0 +1,103 @@
+---
+title: "ARM"
+author: "Shubhankar Goje"
+date: "2023-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r imprting libraries}
+library(viridis)
+library(arules)
+library(TSP)
+library(data.table)
+#library(ggplot2)
+#library(Matrix)
+library(tcltk)
+library(dplyr)
+library(devtools)
+library(purrr)
+library(tidyr)
+library(arulesViz)
+
+```
+
+## Setting Working Dir
+
+
+
+```{r}
+
+## YOUR working dir goes here...
+setwd("E:/Professional Masters in Data Science/SEM 2/Machine Learning/Project")
+```
+
+##Loading trasaction dataset
+```{r}
+EmilyTransaction <- read.transactions("transactions.csv",
+                           rm.duplicates = FALSE, 
+                           format = "basket",  ##if you use "single" also use cols=c(1,2)
+                           sep=",",  ## csv file
+                           cols=1) ## The dataset HAS row numbers
+#inspect(EmilyTransaction)
+```
+##### Use apriori to get the RULES
+
+```{r}
+EmilyRules = arules::apriori(EmilyTransaction, parameter = list(support=.01, 
+                                                 confidence=.02, minlen=2))
+inspect(EmilyRules)
+```
+## Plot of which items are most frequent
+
+```{r}
+itemFrequencyPlot(EmilyTransaction, topN=20, type="absolute")
+```
+
+## Sort rules by a measure such as conf, sup, or lift
+```{r}
+
+SortedRulesEmily <- sort(EmilyRules, by="lift", decreasing=TRUE)
+inspect(SortedRulesEmily[1:10])
+(summary(SortedRulesEmily))
+```
+###Plot
+```{r}
+subrulesEmily <- head(sort(SortedRulesEmily, by="confidence"),15)
+plot(subrulesEmily)
+
+plot(subrulesEmily, method="graph", engine="interactive")
+plot(subrulesEmily, method="graph", engine="htmlwidget")
+```
+
+```{r}
+subrulesEmily <- head(sort(SortedRulesEmily, by="lift"),15)
+plot(subrulesEmily)
+
+plot(subrulesEmily, method="graph", engine="interactive")
+plot(subrulesEmily, method="graph", engine="htmlwidget")
+```
+
+```{r}
+subrulesEmily <- head(sort(SortedRulesEmily, by="support"),15)
+plot(subrulesEmily)
+
+plot(subrulesEmily, method="graph", engine="interactive")
+plot(subrulesEmily, method="graph", engine="htmlwidget")
+```
+```{r}
+rules_dataframe <- as(EmilyRules, 'data.frame')
+
+write.csv(rules_dataframe, "File Name.csv", row.names=FALSE)
+
+```
+
